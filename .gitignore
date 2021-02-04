@@ -1,0 +1,66 @@
+/Debug/
+/FLASH/
+/RAM/
+/__DBG_FLASH/
+/__DBG_RAM/
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+*.list
+*.lst
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+# *.lib
+# *.a
+# *.la
+# *.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+# *.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+# *.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+/Debug__opt_for_speed__0/
+/Debug__opt_for_speed__1/
+/Debug__opt_for_speed__2/
+/Debug__opt_for_speed__3/
+/Debug__opt_for_speed__4/
+/Debug__opt_for_speed__5/
